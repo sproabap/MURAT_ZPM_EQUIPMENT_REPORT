@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Equipment Report Message Class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>000</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Türkçe ekipman tanımı eksik</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>İngilizce ekipman tanımı eksik</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Türkçe İngilizce ekipman tanımları eşleşmiyor</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Muayene Bitiş Tarihi girilmemiş</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Kasko Bitiş Tarihi girilmemiş</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Trafik Bitiş Tarihi girilmemiş</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Ferdi Kaza Bitiş Tarihi girilmemiş</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <MSGNR>008</MSGNR>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZPM_EQUIPMENT_REPORT</ARBGB>
+     <STEXT>Equipment Report Message Class</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>Equipment name in Turkish is missing</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Equipment name in English is missing</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Equipment names in Turkish and English do not match</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Inspection End Date is not maintained</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>Insurance End Date is not maintained</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>006</MSGNR>
+     <TEXT>Traffice End Date is not maintained</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>007</MSGNR>
+     <TEXT>Personal Accident End Date is not maintained</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>008</MSGNR>
+     <TEXT>Plate &amp;1 already exists for another equipment</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

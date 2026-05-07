@@ -1,0 +1,5 @@
+@EndUserText.label: 'Equipment Vehicle Service Definition'
+@ObjectModel.leadingEntity.name: 'ZC_EquipmentVehicle'
+define service ZUI_EQUIPMENTVEHICLE_O4 {
+  expose ZC_EquipmentVehicle as EquipmentVehicle;
+}
